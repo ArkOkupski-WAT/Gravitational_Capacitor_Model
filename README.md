@@ -12,4 +12,7 @@ A radical dark energy model proposing:
 - **Testable predictions**:
   - ḡ/g = 0.991 ± 0.002 (ALPHA-g)
   - ΔH(z=2) = +3.8% vs ΛCDM
+
+# Polish language version.
     
+[![Download Full Paper](https://img.shields.io/badge/Download-Full_Paper-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ArkOkupski-WAT/Gravitational_Capacitor_Model/raw/main/Hipoteza_WAM.pdf)
