@@ -1,3 +1,7 @@
+**Note**: The updated version of this hypothesis is available at:  
+[https://github.com/ArkOkupski-WAT/Gravitational-Capacitor-Model-2](https://github.com/ArkOkupski-WAT/Gravitational-Capacitor-Model-2)
+
+
 # Gravitational Capacitor Model
 
 [![Download Full Paper](https://img.shields.io/badge/Download-Full_Paper-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ArkOkupski-WAT/Gravitational_Capacitor_Model/raw/main/Hipoteza_WAM_eng.pdf)
